@@ -70,27 +70,36 @@ home_1.onclick = function(){
     let b = document.querySelector('.bar');
     b.style.marginTop =0*-685+'px'
     b.style.transition = '0.5s'
+    k.style.display = 'none'
     
 }
 home_2.onclick= function(){
     let b = document.querySelector('.bar');
     b.style.marginTop =-685+'px'
     b.style.transition = '0.5s'
+    k.style.display = 'none'
+    
 }
 home_3.onclick= function(){
     let b = document.querySelector('.bar');
     b.style.marginTop =2*-685+'px'
     b.style.transition = '0.5s'
+    k.style.display = 'none'
+    
 }
 home_4.onclick= function(){
     let b = document.querySelector('.bar');
     b.style.marginTop =3*-685+'px'
     b.style.transition = '0.5s'
+    k.style.display = 'none'
+    
 }
 home_5.onclick= function(){
     let b = document.querySelector('.bar');
     b.style.marginTop =4*-685+'px'
     b.style.transition = '0.5s'
+    k.style.display = 'none'
+    
 }
 // let b= document.querySelectorAll('.all2 div')
 // function active(h){
